@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Table Click Color</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_ad_mob">AdMob</string>
+    <string name="title_activity_ad_mob2">AdMob2</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3120536913205473/5975042732</string>
+    <string name="interstitial_full_screen">ca-app-pub-3120536913205473/3021576335</string>
+    <string name="title_activity_full_screen_ad_mob">FullScreenAdMob</string>
+</resources>
